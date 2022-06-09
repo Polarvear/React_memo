@@ -12,9 +12,6 @@ function App() {
         <p>
           Hello1 World!!!!
         </p>
-        <p>
-          Hello1 World!!!!태그설명!!
-        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
